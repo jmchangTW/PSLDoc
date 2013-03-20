@@ -61,8 +61,8 @@ by
 cmd = '%s -b 1 -c %s -g %s "%s" "%s"' % (svmtrain_exe,c,g,scaled_file,model_file)
 
 3.On Unix systems, 
-type `./configure.pl' to generate config.h file
-type `make' to build the `PSLDoc-prepare', `PSLDoc-train' and `PSLDoc-test' programs.
+type './configure.pl' to generate config.h file
+type 'make' to build the `PSLDoc-prepare', `PSLDoc-train' and `PSLDoc-test' programs.
 Run them without arguments to show the usages of them.
 
 Data Format
@@ -100,7 +100,7 @@ or
 >3914018
 MSISMTTKLSYGFGAFGKDFAIGIVYMYLMYYYTDIVGLSVGVVGTLFLVARILDAIADPIMGWIVNCTRSRWGKFKPWILIGTITNSVVLYMLFSAHHFSGGALLAWVWLTYLLWGFTYTIMDVPFWSLVPTITLDKREREQLVPYPRFFASLAGFVTAGVTLPFVSAVGGADRGFGFQMFTLVLIAFFVISTLVTLRNVHEVYSSDSGVSEDSSHLSLGQMVALIYKNDQLACLLGMALAYNTAANIIAGFAIYYFTYVIGSAEMFPYYMSYAGAANLLTLILFPRLVKGLSRRILWAGASIMPVLGCGVLLLMALSGVYNIALISLAGVLLNIGTALFWVLQVIMVADTVDYGEYTMNIRCESIAYSVQTLVVKAGSAFAAWFIAIVLGIIGYVPNTAQSPHTLLGMQAIMIALPTLFFALTLFLYFRYYKLNGDMLRRIQIHLLDKYRRVPENVVEPERPIVVPNQV
 
-`PSLDoc-prepare' Usage
+'PSLDoc-prepare' Usage
 =================
 
 Usage: PSLDoc-prepare [options] data_set_file
