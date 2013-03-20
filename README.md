@@ -1,8 +1,5 @@
-PSLDoc_v201001
-PSLDoc is a for protein classification. This document explains the use of PSLDoc.
-
-PSLDoc is available at 
-http://genome.crg.es/~jchang/PSLDoc/
+PSLDoc use gapped-dipeptides and probabilistic latent semantic analysis solve 
+to prediction protein subcellular localization.
 
 Table of Contents
 =================
