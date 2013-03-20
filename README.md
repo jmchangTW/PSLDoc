@@ -6,10 +6,10 @@ Table of Contents
 
 - Installation
 - Data Format
-- `PSLDoc-prepare' Usage
-- `PSLDoc-train' Usage
-- `PSLDoc-test' Usage
-- `PSLDoc-analyze' Usage
+- 'PSLDoc-prepare' Usage
+- 'PSLDoc-train' Usage
+- 'PSLDoc-test' Usage
+- 'PSLDoc-analyze' Usage
 - Examples
 - Additional Information
 
